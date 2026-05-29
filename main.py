@@ -179,7 +179,7 @@ def main_menu():
                 save_report(weather_data)
 
         elif choice == '6':
-            print("매니저를 종료합니다. 행복한 하루 되세요!")
+            print("매니저를 종료합니다. 행복한 하루 되세요!!")
             break
 
         else:
